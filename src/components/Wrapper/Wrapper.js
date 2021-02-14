@@ -3,6 +3,7 @@ import React from "react"
 import Sidebar from "../Sidebar"
 import TopBar from "../TopBar"
 import Content from "../Content"
+import Footer from "../Footer"
 
 
 export default function Wrapper(){
@@ -16,6 +17,7 @@ export default function Wrapper(){
                     <Content />
                 
                 </div>
+                <Footer />
             </div>
         </div>
     )
