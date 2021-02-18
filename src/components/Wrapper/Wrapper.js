@@ -15,7 +15,6 @@ export default function Wrapper(){
                 <div id="content">
                     <TopBar />
                     <Content />
-                
                 </div>
                 <Footer />
             </div>
