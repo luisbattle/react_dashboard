@@ -44,7 +44,7 @@ export default class AmountOfProducts extends Component{
                                 <div className="h5 mb-0 font-weight-bold text-gray-800">${this.state.amount}</div>
                             </div>
                             <div className="col-auto">
-                                <i className="fas fa-clipboard-list fa-2x text-gray-300"></i>
+                                <i className="fas fa-dollar-sign fa-2x text-gray-300"></i>
                             </div>
                         </div>
                     </div>
